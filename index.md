@@ -5,10 +5,10 @@ layout: default
 #### 並根據:
 #### Q: "2個人的的聲音是否相像" 評分(請忽略音質帶來的影響)
 #### 評分標準如下
-* 2: Same, absolutely sure (一樣，非常確定)
-* 1: Same, not sure (一樣，不太確定)
-* -1: Different, not sure (不一樣，不太確定)
-* -2: Different, absolutely sure (不一樣，非常確定)
+* 4: Same, absolutely sure (一樣，非常確定)
+* 3: Same, not sure (一樣，不太確定)
+* 2: Different, not sure (不一樣，不太確定)
+* 1: Different, absolutely sure (不一樣，非常確定)
 #### 註: 請分別比較Reference(X-X-X-R)跟A, B, C(X-X-X-A, X-X-X-B, X-X-X-C)三組聲音
 - - -
 #### *Reference: 1-1-1-R*
